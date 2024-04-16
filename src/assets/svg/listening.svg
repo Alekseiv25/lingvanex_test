@@ -1,0 +1,101 @@
+<svg width="324.000000" height="137.000000" viewBox="0 0 324 137" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_1_141_dd" x="217.391983" y="25.740479" width="106.027206" height="110.777100" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="17.2634"/>
+			<feGaussianBlur stdDeviation="4.90823"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0.4902 0 0 0 0 0.59216 0 0 0 0 0.67059 0 0 0 0.16 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<radialGradient id="paint_radial_1_114_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(64.1672 64.3099) rotate(161.143) scale(68.5494 68.2848)">
+			<stop offset="0.375000" stop-color="#3E7DFA" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#3E7DFA" stop-opacity="0.400000"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_115_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(64.1253 64.31) rotate(161.143) scale(57.4436 57.2219)">
+			<stop offset="0.375000" stop-color="#3E7DFA" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#3E7DFA" stop-opacity="0.400000"/>
+		</radialGradient>
+		<radialGradient id="paint_radial_1_116_0" cx="0.000000" cy="0.000000" r="1.000000" gradientUnits="userSpaceOnUse" gradientTransform="translate(64.0894 64.3102) rotate(161.143) scale(46.7208 46.5405)">
+			<stop offset="0.375000" stop-color="#3E7DFA" stop-opacity="0.000000"/>
+			<stop offset="1.000000" stop-color="#3E7DFA" stop-opacity="0.400000"/>
+		</radialGradient>
+	</defs>
+	<g opacity="0.100000">
+		<circle id="Ellipse 241" cx="63.916748" cy="64.309814" r="64.619873" fill="url(#paint_radial_1_114_0)" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.200000">
+		<circle id="Ellipse 240" cx="63.915371" cy="64.309814" r="54.150723" fill="url(#paint_radial_1_115_0)" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.300000">
+		<circle id="Ellipse 239" cx="63.918686" cy="64.310059" r="44.042587" fill="url(#paint_radial_1_116_0)" fill-opacity="1.000000"/>
+	</g>
+	<circle id="Ellipse 238" cx="63.734509" cy="64.336914" r="34.475964" fill="#0146FE" fill-opacity="1.000000"/>
+	<path id="Vector" d="M78.85 59.97C79.91 59.97 80.78 60.83 80.78 61.88C80.78 70.49 74.19 77.59 65.73 78.54L65.73 82.39C65.73 83.45 64.86 84.3 63.79 84.3C62.72 84.3 61.86 83.45 61.86 82.39L61.86 78.54C53.4 77.59 46.8 70.49 46.8 61.88C46.8 60.83 47.67 59.97 48.74 59.97C49.81 59.97 50.68 60.83 50.68 61.88C50.68 69.03 56.56 74.84 63.79 74.84C71.03 74.84 76.91 69.03 76.91 61.88C76.91 60.83 77.78 59.97 78.85 59.97ZM64.14 44.33C68.13 44.33 71.49 46.98 72.52 50.59C72.66 51.08 72.28 51.57 71.76 51.57L69.5 51.57C68.82 51.57 68.26 52.12 68.26 52.8C68.26 53.47 68.82 54.02 69.5 54.02L71.59 54.02C72.28 54.02 72.84 54.57 72.84 55.26C72.84 55.94 72.28 56.49 71.59 56.49L69.5 56.49C68.82 56.49 68.26 57.04 68.26 57.72C68.26 58.39 68.82 58.94 69.5 58.94L71.59 58.94C72.28 58.94 72.84 59.49 72.84 60.18C72.84 60.86 72.28 61.41 71.59 61.41L69.5 61.41C68.82 61.41 68.26 61.96 68.26 62.64C68.26 63.31 68.82 63.86 69.5 63.86L71.65 63.86C72.19 63.86 72.56 64.37 72.4 64.87C71.25 68.28 67.99 70.75 64.14 70.75L63.44 70.75C58.64 70.75 54.75 66.9 54.75 62.16L54.75 52.92C54.75 48.17 58.64 44.33 63.44 44.33L64.14 44.33Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<g opacity="0.100000">
+		<rect id="Rectangle 1340" x="101.505249" y="56.017578" rx="1.001510" width="2.003020" height="16.680614" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.200000">
+		<rect id="Rectangle 1341" x="107.798218" y="49.171875" rx="1.001510" width="2.003020" height="30.373648" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.300000">
+		<rect id="Rectangle 1342" x="114.095947" y="41.329102" rx="1.001510" width="2.003020" height="46.058430" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.400000">
+		<rect id="Rectangle 1343" x="120.389038" y="35.029297" rx="1.001510" width="2.003020" height="58.659874" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.500000">
+		<rect id="Rectangle 1344" x="126.686279" y="41.296387" rx="1.001510" width="2.003020" height="46.123623" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.600000">
+		<rect id="Rectangle 1345" x="132.979736" y="49.185791" rx="1.001510" width="2.003020" height="30.344477" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.700000">
+		<rect id="Rectangle 1346" x="139.277100" y="32.166992" rx="1.001510" width="2.003020" height="64.382797" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.800000">
+		<rect id="Rectangle 1347" x="145.570068" y="34.884766" rx="1.001510" width="2.003020" height="58.946026" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.900000">
+		<rect id="Rectangle 1348" x="151.867920" y="49.185791" rx="1.001510" width="2.003020" height="30.344477" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<rect id="Rectangle 1349" x="158.161133" y="41.296387" rx="1.001510" width="2.003020" height="46.123623" fill="#3E7DFA" fill-opacity="1.000000"/>
+	<rect id="Rectangle 1350" x="164.458252" y="41.296387" rx="1.001510" width="2.003020" height="46.123623" fill="#3E7DFA" fill-opacity="1.000000"/>
+	<g opacity="0.900000">
+		<rect id="Rectangle 1351" x="170.751587" y="27.159180" rx="1.001510" width="2.003020" height="74.397888" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.800000">
+		<rect id="Rectangle 1352" x="177.048950" y="41.296387" rx="1.001510" width="2.003020" height="46.123623" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.700000">
+		<rect id="Rectangle 1353" x="183.341553" y="49.185791" rx="1.001510" width="2.003020" height="30.344477" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.600000">
+		<rect id="Rectangle 1354" x="189.639282" y="56.013672" rx="1.001510" width="2.003020" height="16.689466" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.500000">
+		<rect id="Rectangle 1355" x="195.932617" y="47.476318" rx="1.001510" width="2.003020" height="33.765194" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.400000">
+		<rect id="Rectangle 1356" x="202.229980" y="42.324707" rx="1.001510" width="2.003020" height="44.066437" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.300000">
+		<rect id="Rectangle 1357" x="208.522095" y="45.615479" rx="1.001510" width="2.003020" height="37.485092" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.200000">
+		<rect id="Rectangle 1359" x="214.820801" y="49.185791" rx="1.001510" width="2.003020" height="30.344477" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.100000">
+		<rect id="Rectangle 1360" x="221.112793" y="56.013672" rx="1.001510" width="2.003020" height="16.689466" fill="#3E7DFA" fill-opacity="1.000000"/>
+	</g>
+	<g filter="url(#filter_1_141_dd)">
+		<path id="Ellipse 238" d="M301.04 86.97C307.83 77.89 310.54 65.91 307.38 54.12C301.9 33.7 280.91 21.58 260.49 27.05C240.07 32.52 227.95 53.51 233.43 73.93C238.9 94.35 259.89 106.47 280.31 101C281.48 100.69 282.63 100.32 283.74 99.91L299.51 104.47C300.43 104.73 301.34 104.04 301.33 103.08L301.04 86.97Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<path id="A," d="M272.45 67.31L275.53 76.05L281.03 76.05L269.33 44.43L263.6 44.43L251.88 76.05L257.33 76.05L260.41 67.31L272.45 67.31ZM268.12 54.25L271.12 62.87L261.85 62.87L264.87 54.25Q265.02 53.74 265.31 52.79Q265.6 51.84 265.91 50.75Q266.23 49.66 266.44 48.78Q266.66 49.51 266.98 50.58Q267.3 51.65 267.63 52.67Q267.95 53.69 268.12 54.25Z" fill="#001624" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="A," d="M286.77 69.34L292.9 69.34L292.52 71.93C291.7 77.39 289.26 84.78 288.1 88.04L283.78 88.04C284.41 85.01 285.78 78.53 286.47 72.03L286.77 69.34Z" fill="#0146FE" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

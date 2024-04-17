@@ -62,7 +62,7 @@ function updateTabs(tabs, activeTabIndex) {
       tab.style.transform = `translateY(0)`;
       tab.style.zIndex = `2`;
       tab.style.width =
-        screenWidth < 500 ? `80%` : screenWidth < 1200 ? `90%` : `100%`;
+        screenWidth < 500 ? `80%` : screenWidth < 1200 ? `85%` : `100%`;
     } else {
       const distance = (tabIndex - activeTabIndex) * 20;
       tab.style.transform = `translateY(${distance}px)`;
@@ -84,7 +84,7 @@ function createTab(index, title, imgLink, items) {
   tab.style.transform = `translateY(${distance}px)`;
   tab.style.zIndex = `${2 - index}`;
   const width = 100 - index * 15;
-  const smallWidth = 90 - Math.abs(index) * 20;
+  const smallWidth = 85 - Math.abs(index) * 20;
   const mobileWidth = 80 - Math.abs(index) * 20;
   tab.style.width =
     screenWidth < 500

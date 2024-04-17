@@ -34,7 +34,6 @@ export const accordionData = [
       "Highlight one word in the text on the page.",
       "Word meaning, pronunciation, synonyms, hypernyms, hyponyms  . and more.",
       "Highlight one word in the text on the page.",
-      "Word meaning, pronunciation, synonyms, hypernyms, hyponyms  . and more.",
     ],
     imgLink: pngPathEmployees,
   },

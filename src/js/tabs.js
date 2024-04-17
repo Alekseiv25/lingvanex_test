@@ -56,29 +56,42 @@ function updateTabButtons(buttons, activeTabIndex) {
 }
 
 function updateTabs(tabs, activeTabIndex) {
+  const screenWidth = window.innerWidth;
   tabs.forEach((tab, tabIndex) => {
     if (tabIndex === activeTabIndex) {
       tab.style.transform = `translateY(0)`;
       tab.style.zIndex = `2`;
-      tab.style.width = "100%";
+      tab.style.width =
+        screenWidth < 500 ? `80%` : screenWidth < 1200 ? `90%` : `100%`;
     } else {
       const distance = (tabIndex - activeTabIndex) * 20;
       tab.style.transform = `translateY(${distance}px)`;
       tab.style.zIndex = `${2 - Math.abs(tabIndex - activeTabIndex)}`;
-      const width = 100 - Math.abs(tabIndex - activeTabIndex) * 15;
+      const width =
+        100 -
+        Math.abs(tabIndex - activeTabIndex) *
+          (screenWidth < 500 ? 35 : screenWidth < 1200 ? 25 : 15);
       tab.style.width = `${width}%`;
     }
   });
 }
 
 function createTab(index, title, imgLink, items) {
+  const screenWidth = window.innerWidth;
   const tab = document.createElement("div");
   tab.classList.add("product-info__tabs-container__tab");
   const distance = index * 20;
   tab.style.transform = `translateY(${distance}px)`;
   tab.style.zIndex = `${2 - index}`;
   const width = 100 - index * 15;
-  tab.style.width = `${width}%`;
+  const smallWidth = 90 - Math.abs(index) * 20;
+  const mobileWidth = 80 - Math.abs(index) * 20;
+  tab.style.width =
+    screenWidth < 500
+      ? `${mobileWidth}%`
+      : screenWidth < 1200
+      ? `${smallWidth}`
+      : `${width}%`;
 
   const tabContent = document.createElement("div");
   tabContent.classList.add("product-info__tabs-container__tab__content");
@@ -111,5 +124,6 @@ function createTab(index, title, imgLink, items) {
 
   tab.appendChild(tabContent);
   tab.appendChild(imgContainer);
+
   return tab;
 }
